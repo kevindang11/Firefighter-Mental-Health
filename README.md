@@ -1,4 +1,4 @@
-# Occupational and Demographic Factors for Firefighter Mental Health Outcomes
+# Occupational Risk Factors and Their Associations with Mental Health Disorders Among Firefighters Across Texas and Oklahoma
 
 ## Description
 This repository contains the R code (`FF Mental Health Data.R`) for performing multiple logistic regression analyses on demographic features and occupation specific experiences/scenarios to determine the risk factors that directly lead to the development of depression, anxiety, stress, post-traumatic stress disorder, and cognitive failure.
